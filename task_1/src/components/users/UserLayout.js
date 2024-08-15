@@ -6,9 +6,9 @@ export default function UserLayout()
     const usersArray = [
         {
             id: 1,
-            firstName: "Denys",
-            lastName: "Gladan",
-            email: "gladandenis@gmail.com",
+            firstName: "Semen",
+            lastName: "Kos",
+            email: "semenkos@gmail.com",
             phone: "+380685463354",
         },
     ];
